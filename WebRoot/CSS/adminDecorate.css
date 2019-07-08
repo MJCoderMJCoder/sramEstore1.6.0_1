@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+
+.First {
+	cursor: pointer;
+	font-weight: bolder;
+	font-size: large;
+}
+
+.First:HOVER {
+	font-size: x-large;
+}
+
+.second {
+	cursor: pointer;
+	font-weight: bold;
+	font-size: medium;
+}
+
+.second:HOVER {
+	font-size: large;
+}
+
+.pLocation {
+}
